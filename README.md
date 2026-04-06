@@ -87,6 +87,17 @@ Built with a clean architecture approach to ensure scalability and maintainabili
     <img src="https://github.com/AhmedAwadNosir/MyNotesApp/blob/main/lib/core/utils/assets/screens/1notesView.jpeg" width="80",hieght="80"/>
   </a>
 </p>
+---
+
+## 👨‍💻 Author
+
+**Ahmed Awad**
+**Flutter Developer**
+---
+## ⭐ Support
+
+If you like this project, please ⭐ the repository!
+
 <!--
 ## 🎯 Future Improvements
 
@@ -95,15 +106,3 @@ Built with a clean architecture approach to ensure scalability and maintainabili
 - 🔔 Notifications  
 - 📌 Pin Notes  
 -->
----
-
-## 👨‍💻 Author
-
-**Ahmed Awad**
-
-- GitHub: https://github.com/AhmedAwadNosir
-
----
-## ⭐ Support
-
-If you like this project, please ⭐ the repository!
